@@ -1,0 +1,18 @@
+{
+  "name": "cor",
+  "displayName": "COR",
+  "version": "1.0.0",
+  "description": "Work with COR projects, tasks, messages, and time logs.",
+  "author": {
+    "name": "COR",
+    "email": "help@projectcor.com",
+    "url": "https://projectcor.com"
+  },
+  "homepage": "https://projectcor.com",
+  "repository": "https://github.com/ProjectCORTeam/cor-claude-plugin",
+  "license": "MIT",
+  "icon": "./assets/logo.svg",
+  "documentationUrl": "https://developers.projectcor.com/ai-tools/mcp-server",
+  "privacyPolicyUrl": "https://live.projectcor.com/legal/privacy-policy",
+  "termsOfServiceUrl": "https://live.projectcor.com/legal/terms-of-service"
+}
